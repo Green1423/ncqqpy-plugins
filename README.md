@@ -68,6 +68,7 @@ ncqqpy 机器人的**插件列表仓库**：`plugins.json` 是插件管理器
 - **bupt_news** v1.0.0 — 北邮校内通知定时同步与推送（门户登录 + AI 摘要 + 表格出图）（[Green1423/ncqqpy-plugin-bupt-news](https://github.com/Green1423/ncqqpy-plugin-bupt-news)）
 - **byrdocs** v1.0.0 — BYR Docs 资料检索与下载（按编号搜索 / 翻页 / 取文件 / 白名单）（[Green1423/ncqqpy-plugin-byrdocs](https://github.com/Green1423/ncqqpy-plugin-byrdocs)）
 - **ai_chat** v1.0.0 — 多会话 AI 对话（上下文压缩 + 内置工具 + 联网搜索 + Markdown 出图）（[Green1423/ncqqpy-plugin-ai-chat](https://github.com/Green1423/ncqqpy-plugin-ai-chat)）
+- **oj_bank** v0.1.0 — 本地题库与判题（洛谷抓题 / AI 搜题入库 / 题卡出图 / 10 组测试点 / 题组）（[Green1423/ncqqpy-oj-bank](https://github.com/Green1423/ncqqpy-oj-bank)）
 
 ## 许可
 
