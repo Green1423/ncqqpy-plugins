@@ -1,7 +1,7 @@
 {
   "version": 1,
   "name": "ncqqpy 官方插件列表",
-  "updated": "2026-10-30",
+  "updated": "2026-11-03",
   "plugins": [
     {
       "name": "essential",
@@ -57,6 +57,18 @@
       "tags": [
         "题库",
         "判题"
+      ],
+      "data": true
+    },
+    {
+      "name": "leyun_power",
+      "repo": "carbon-wolf/leyun-power",
+      "ref": "main",
+      "version": "2.4.0",
+      "description": "宿舍水电费巡检（登录一卡通定时查余额 / 低于阈值推送 / 夜间免打扰 / 文案可 @人）",
+      "tags": [
+        "推送",
+        "校园"
       ],
       "data": true
     }
