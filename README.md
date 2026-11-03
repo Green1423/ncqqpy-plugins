@@ -69,6 +69,7 @@ ncqqpy 机器人的**插件列表仓库**：`plugins.json` 是插件管理器
 - **byrdocs** v1.0.0 — BYR Docs 资料检索与下载（按编号搜索 / 翻页 / 取文件 / 白名单）（[Green1423/ncqqpy-plugin-byrdocs](https://github.com/Green1423/ncqqpy-plugin-byrdocs)）
 - **ai_chat** v1.0.0 — 多会话 AI 对话（上下文压缩 + 内置工具 + 联网搜索 + Markdown 出图）（[Green1423/ncqqpy-plugin-ai-chat](https://github.com/Green1423/ncqqpy-plugin-ai-chat)）
 - **oj_bank** v0.1.0 — 本地题库与判题（洛谷抓题 / AI 搜题入库 / 题卡出图 / 10 组测试点 / 题组）（[Green1423/ncqqpy-oj-bank](https://github.com/Green1423/ncqqpy-oj-bank)）
+- **todo** v2.0.0 — 待办与周期提醒（自然语言时间表达式 / 重复规则 / 服务范围白名单）（[Green1423/ncqqpy-plugin-todo](https://github.com/Green1423/ncqqpy-plugin-todo)）
 - **leyun_power** v2.4.0 — 宿舍水电费巡检（登录一卡通定时查余额 / 低于阈值推送 / 夜间免打扰 / 文案可 @人）（[carbon-wolf/leyun-power](https://github.com/carbon-wolf/leyun-power)）
 
 ## 许可
