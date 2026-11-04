@@ -64,7 +64,7 @@
       "name": "todo",
       "repo": "Green1423/ncqqpy-plugin-todo",
       "ref": "main",
-      "version": "2.0.0",
+      "version": "2.2.0",
       "description": "待办与周期提醒（自然语言时间表达式 / 重复规则 / 服务范围白名单）",
       "tags": [
         "待办",
